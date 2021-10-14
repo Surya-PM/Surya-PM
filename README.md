@@ -1,7 +1,10 @@
--👋 Hi, I’m @Surya-PM
--👀 I’m interested in Full Stack Development
--🌱 I’m currently learning MERN stack
--## ⚡ Things I code with
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+<p>Welcome to my page! </br> I’m @Surya-PM from <img src="https://image.flaticon.com/icons/png/512/3909/3909444.png" width="13"/> <b>Chennai, Tamil Nadu.</b> 
+<br/>👀 I’m interested in Full Stack Development. <br/>🌱 I’m currently learning MERN stack</p>
+
+
+## ⚡ Things I code with
 <p>
  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
    <img alt="CSS" src="https://img.shields.io/badge/-CSS-764ABC?style=flat-square&logo=CSS3&logoColor=white" />

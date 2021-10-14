@@ -14,7 +14,7 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
  </p>
-💞️ I’m looking to collaborate on any Opensource projects
+<!-- 💞️ I’m looking to collaborate on any Opensource projects -->
 
 📫 How to reach me ...Here is my linkedin profile
       https://www.linkedin.com/in/surya-pm1997/

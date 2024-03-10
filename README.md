@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 <p>Welcome to my page! </br> I’m @Surya-PM from Chennai, Tamil Nadu.</b> 
-<br/>👀 I’m interested in Devops Engineering & Cloud Architecture. <br/>🌱 I’m currently learning Devops</p>
+<br/>👀 I’m interested in Devops Engineering & Cloud Computing. <br/>🌱 I’m currently learning Devops</p>
 
 
 ## ⚡ Things I work with

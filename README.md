@@ -20,7 +20,7 @@
 <!-- 💞️ I’m looking to collaborate on any Opensource projects -->
 
 📫 How to reach me ...Here is my linkedin profile
-      https://www.linkedin.com/in/surya-pm1997/
+      [https://www.linkedin.com/in/surya-pm-connect/]
       
 
 <!---
